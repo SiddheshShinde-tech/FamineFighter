@@ -30,4 +30,4 @@
 This Web Application has main two buttons:
 1. 'Donate Now' - If you want to Donate food Cick on 'Donate Now' and fill the given form.
 2. 'Get Help!' - Details of donors will be available here. NGOs can contact them directly and collect food and distribute it among needy.
-3.  Blog Section - To motivate people to be kind and do charity.
+3.  Blog Section - To motivate people to come together and be a part of this beautiful journey with us!
