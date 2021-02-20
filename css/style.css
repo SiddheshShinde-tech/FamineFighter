@@ -24,16 +24,7 @@ body.fh5co-offcanvas {
   overflow: hidden;
 }
 
-a {
-  color: #FC3C3C;
-  -webkit-transition: 0.5s, ease;
-  -o-transition: 0.5s, ease;
-  transition: 0.5s, ease;
-}
-a:hover {
-  text-decoration: none !important;
-  color: #FC3C3C !important;
-}
+
 
 p, ul, ol {
   margin-bottom: 1.5em;
@@ -1631,4 +1622,11 @@ figure {
     margin-top: 10px;
     text-align: right;
   }
-
+.back_btn{
+  width: 0px;
+  height: 15px;
+  background-color: #2a88ad;
+  padding: 8px;
+  border-radius: 5px;
+  color: #ffffff;
+}
