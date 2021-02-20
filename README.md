@@ -4,9 +4,7 @@
                   restaurants, etc can come together and donate their surplus
                   food. Through this platform, we are planning to solve two
                   major issues, the world is facing right now. First being
-                  reduction of food wastage and second being reducing hunger. We
-                  together plan to make this world worth living and provide a
-                  life that everyone deserves!<br /></p>
+                  reduction of food wastage and second being reducing hunger. We also aim to motivate people to be kind and get involve through various blogs that we provide on our webiste. Finally, we together plan to make this world worth living and provide a life that everyone deserves!<br /></p>
 
 ## DEVELOPED BY:
 
