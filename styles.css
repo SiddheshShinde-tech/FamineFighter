@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -11,7 +13,18 @@ ul {
     position: relative;
     border-bottom: 1px solid #e6e6e6;
   }
-  
+  body{
+    background-color: #1a202c;
+  }
+  .thanks{
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+  }
+  .thanks-div{
+    margin-top: 30px;
+  }
   li span {
     display: block;
   }
@@ -134,4 +147,28 @@ ul {
     color: #4d4d4d;
     margin-top: 10px;
     text-align: right;
+  }
+
+
+
+
+
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 20px;
+    background: #f6f6f6;
+    font-size: 20px;
+    color: #555;
+    position: relative;
+    border-bottom: 1px solid #e6e6e6;
+  }
+
+
+  li span {
+    display: block;
   }
