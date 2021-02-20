@@ -24,7 +24,7 @@ const setUpGuides = (data) => {
     const li = `
     <div class="row">
         <div class="flip">
-            <div class="front" style="background-image: url(https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)">
+            <div class="front" style="background-color: #543CC9 ">
                <h1 class="text-shadow">${guide.Name}</hi>
             </div>
             <div class="back">
